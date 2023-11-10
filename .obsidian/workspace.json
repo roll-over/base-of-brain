@@ -107,9 +107,17 @@
             "id": "7543808b69a1305d",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "f6c7338f610b7ced",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Маркетинг/Виды рекламы.md",
+                "file": "Чек листы/Чек лист IT's open mic.md",
                 "mode": "source",
                 "source": false
               }
@@ -204,7 +212,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -270,7 +278,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Маркетинг/Виды рекламы.md",
+                "file": "Чек листы/Чек лист IT's open mic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -287,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Маркетинг/Виды рекламы.md",
+                "file": "Чек листы/Чек лист IT's open mic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -310,7 +318,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Маркетинг/Виды рекламы.md"
+                "file": "Чек листы/Чек лист IT's open mic.md"
               }
             }
           }
@@ -331,8 +339,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7543808b69a1305d",
+  "active": "f6c7338f610b7ced",
   "lastOpenFiles": [
+    "Чек листы/Чек лист IT's open mic.md",
+    "Чек листы",
+    "проекты/Simple bots.md",
+    "Психология/Сепарация.md",
+    "Психология/Свобода.md",
+    "Маркетинг/Виды рекламы.md",
     "идеи/Телеграм версия приложения.md",
     "идеи/Рекрутинговое агенство.md",
     "идеи/Проверка LinkedIn.md",
@@ -343,10 +357,7 @@
     "идеи/Платформа для бьюти сферы.md",
     "идеи/Вид квартиры из лего.md",
     "идеи/Ботик коуч.md",
-    "Психология/Свобода.md",
-    "Психология/Сепарация.md",
     "Психология",
-    "Маркетинг/Виды рекламы.md",
     "Маркетинг",
     "идеи/Ботик генератор идей.md",
     "идеи/Ботик для записи.md",
@@ -357,11 +368,9 @@
     "идеи/Тема для хакатона Мини сервис.md",
     "проекты/hide-hire.md",
     "marketing.md",
-    "проекты/Simple bots.md",
     "Untitled.canvas",
     "2023-11-09.md",
     "проекты/IT`s open mic.md",
-    "проекты/Hikkithon.md",
     "не сортированное",
     "проекты",
     "идеи"
