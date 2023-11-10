@@ -1,0 +1,369 @@
+{
+  "main": {
+    "id": "c495106f38679780",
+    "type": "split",
+    "children": [
+      {
+        "id": "74313790961cd011",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14bfae29663aeeb3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "cc1fe035d7cba050",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "проекты/Simple bots.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "935bf45617e28c9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "идеи/Ботик коуч.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "46a59f40a427f824",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "идеи/Ботик для тайм трекинга.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f1d011682c83ae27",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "5c13028e8b01e253",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "9c0f181a047f340c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "a91910f6a21fd873",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "5e8d9ca70b59d950",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "27feab72e7b57404",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Психология/Свобода.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7543808b69a1305d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Маркетинг/Виды рекламы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b89d933f167306ef",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "51c0177c81f19dde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "проекты/hide-hire.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bba3d5d1c8b58043",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "0f67e4f3a8329df7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "идеи/Позвать рекрутера на митап.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2d434c046541d571",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "идеи/Позвать маркетолога на митап.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e2dc74e466c7db93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "проекты/Hikkithon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d2a5048061d6bb88",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "идеи/Тема для хакатона Пушка API.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0a9e30e6bd98185d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "идеи/Проверка hh.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 10
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "520ab4dcad89df13",
+    "type": "split",
+    "children": [
+      {
+        "id": "d879bd9ad63239f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "71d2f5df28ae2574",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "43497375711d35f8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#psy",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7532358ec3a8ce7a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fa154a4490878d20",
+    "type": "split",
+    "children": [
+      {
+        "id": "60c01259545cd211",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4c751cfeffd2161",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Маркетинг/Виды рекламы.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1a455f40d887ea39",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Маркетинг/Виды рекламы.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fa54777f6b969a68",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3f35fa81fdc101b4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Маркетинг/Виды рекламы.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7543808b69a1305d",
+  "lastOpenFiles": [
+    "идеи/Телеграм версия приложения.md",
+    "идеи/Рекрутинговое агенство.md",
+    "идеи/Проверка LinkedIn.md",
+    "идеи/Проверка hh.md",
+    "идеи/Позвать рекрутера на митап.md",
+    "идеи/Позвать маркетолога на митап.md",
+    "идеи/Платформа для репетиторов.md",
+    "идеи/Платформа для бьюти сферы.md",
+    "идеи/Вид квартиры из лего.md",
+    "идеи/Ботик коуч.md",
+    "Психология/Свобода.md",
+    "Психология/Сепарация.md",
+    "Психология",
+    "Маркетинг/Виды рекламы.md",
+    "Маркетинг",
+    "идеи/Ботик генератор идей.md",
+    "идеи/Ботик для записи.md",
+    "идеи/Ботик для тайм трекинга.md",
+    "проекты/roll-over.md",
+    "проекты/red-flags.md",
+    "идеи/Тема для хакатона Пушка API.md",
+    "идеи/Тема для хакатона Мини сервис.md",
+    "проекты/hide-hire.md",
+    "marketing.md",
+    "проекты/Simple bots.md",
+    "Untitled.canvas",
+    "2023-11-09.md",
+    "проекты/IT`s open mic.md",
+    "проекты/Hikkithon.md",
+    "не сортированное",
+    "проекты",
+    "идеи"
+  ]
+}
