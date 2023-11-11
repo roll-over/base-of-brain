@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "14bfae29663aeeb3",
+            "id": "5e049658f664136c",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -16,7 +16,7 @@
             }
           },
           {
-            "id": "cc1fe035d7cba050",
+            "id": "7b6afe2485aceec2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -28,191 +28,18 @@
             }
           },
           {
-            "id": "935bf45617e28c9a",
+            "id": "908bb1b6bd892f07",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "идеи/Ботик коуч.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "46a59f40a427f824",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "идеи/Ботик для тайм трекинга.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1d011682c83ae27",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "5c13028e8b01e253",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "9c0f181a047f340c",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "a91910f6a21fd873",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "5e8d9ca70b59d950",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "27feab72e7b57404",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Психология/Свобода.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7543808b69a1305d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "f6c7338f610b7ced",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Чек листы/Чек лист IT's open mic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b89d933f167306ef",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "51c0177c81f19dde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "проекты/hide-hire.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bba3d5d1c8b58043",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "0f67e4f3a8329df7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "идеи/Позвать рекрутера на митап.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2d434c046541d571",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "идеи/Позвать маркетолога на митап.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e2dc74e466c7db93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "проекты/Hikkithon.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d2a5048061d6bb88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "идеи/Тема для хакатона Пушка API.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a9e30e6bd98185d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "идеи/Проверка hh.md",
+                "file": "проекты/Simple psychologist.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -278,7 +105,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Чек листы/Чек лист IT's open mic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -295,7 +121,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Чек листы/Чек лист IT's open mic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -317,9 +142,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Чек листы/Чек лист IT's open mic.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -339,40 +162,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f6c7338f610b7ced",
+  "active": "71d2f5df28ae2574",
   "lastOpenFiles": [
-    "Чек листы/Чек лист IT's open mic.md",
-    "Чек листы",
     "проекты/Simple bots.md",
+    "проекты/Simple psychologist.md",
+    "Simpl",
+    "проекты/roll-over.md",
+    "Чек листы/Чек лист IT's open mic.md",
+    "проекты/Лендинг.md",
+    "Чек листы",
     "Психология/Сепарация.md",
     "Психология/Свобода.md",
     "Маркетинг/Виды рекламы.md",
-    "идеи/Телеграм версия приложения.md",
-    "идеи/Рекрутинговое агенство.md",
-    "идеи/Проверка LinkedIn.md",
-    "идеи/Проверка hh.md",
-    "идеи/Позвать рекрутера на митап.md",
-    "идеи/Позвать маркетолога на митап.md",
-    "идеи/Платформа для репетиторов.md",
-    "идеи/Платформа для бьюти сферы.md",
-    "идеи/Вид квартиры из лего.md",
-    "идеи/Ботик коуч.md",
+    "Идеи/Телеграм версия приложения.md",
+    "Идеи/Рекрутинговое агенство.md",
+    "Идеи/Проверка LinkedIn.md",
+    "Идеи/Проверка hh.md",
+    "Идеи/Позвать рекрутера на митап.md",
+    "Идеи/Позвать маркетолога на митап.md",
+    "Идеи/Платформа для репетиторов.md",
+    "Идеи/Платформа для бьюти сферы.md",
+    "Идеи/Вид квартиры из лего.md",
+    "Идеи/Ботик коуч.md",
     "Психология",
     "Маркетинг",
-    "идеи/Ботик генератор идей.md",
-    "идеи/Ботик для записи.md",
-    "идеи/Ботик для тайм трекинга.md",
-    "проекты/roll-over.md",
+    "Идеи/Ботик генератор идей.md",
+    "Идеи/Ботик для записи.md",
+    "Идеи/Ботик для тайм трекинга.md",
     "проекты/red-flags.md",
-    "идеи/Тема для хакатона Пушка API.md",
-    "идеи/Тема для хакатона Мини сервис.md",
+    "Идеи/Тема для хакатона Пушка API.md",
+    "Идеи/Тема для хакатона Мини сервис.md",
     "проекты/hide-hire.md",
     "marketing.md",
     "Untitled.canvas",
-    "2023-11-09.md",
-    "проекты/IT`s open mic.md",
     "не сортированное",
     "проекты",
-    "идеи"
+    "Идеи"
   ]
 }
