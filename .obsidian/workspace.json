@@ -80,6 +80,42 @@
             }
           },
           {
+            "id": "9d227b10f65ea6e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Идеи/Подкаст ретроспектива.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "064af0335cc63ea1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Идеи/Аудит найма.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2042dde8d0bcd5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Проекты/Hikkithon.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b89d933f167306ef",
             "type": "leaf",
             "state": {
@@ -96,7 +132,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -162,6 +198,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Проекты/Hikkithon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,6 +215,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Проекты/Hikkithon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +237,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Проекты/Hikkithon.md"
+              }
             }
           }
         ]
@@ -219,8 +259,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71d2f5df28ae2574",
+  "active": "c2042dde8d0bcd5a",
   "lastOpenFiles": [
+    "Идеи/Подписочная модель на 3 4 тыс руб в месяц в б2б.md",
+    "Идеи/Аудит найма.md",
+    "Идеи/Подкаст ретроспектива.md",
+    "Идеи/Аудит скилов.md",
+    "Untitled",
     "Untitled.canvas",
     "2023-11-22.md",
     "Untitled 1.canvas",
@@ -247,9 +292,6 @@
     "Идеи/Позвать маркетолога на митап.md",
     "Идеи/Платформа для репетиторов.md",
     "Идеи/Платформа для бьюти сферы.md",
-    "Идеи/Вид квартиры из лего.md",
-    "Идеи/Ботик коуч.md",
-    "Идеи/Ботик для тайм трекинга.md",
     "Идеи",
     "Чек листы",
     "Психология",
