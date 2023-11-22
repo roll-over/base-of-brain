@@ -77,7 +77,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Регламенты/Первая версия описания проекта.md",
+                "file": "2023-11-22.md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Регламенты/Первая версия описания проекта.md",
+                "file": "2023-11-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Регламенты/Первая версия описания проекта.md",
+                "file": "2023-11-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Регламенты/Первая версия описания проекта.md"
+                "file": "2023-11-22.md"
               }
             }
           }
@@ -229,8 +229,11 @@
   },
   "active": "965661d84048123d",
   "lastOpenFiles": [
-    "Регламенты",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "2023-11-22.md",
     "Регламенты/Первая версия описания проекта.md",
+    "Регламенты",
     "Проекты/Лендинг.md",
     "Проекты/roll-over.md",
     "Проекты/IT`s open mic.md",
@@ -255,12 +258,10 @@
     "Идеи/Вид квартиры из лего.md",
     "Идеи/Ботик коуч.md",
     "Идеи/Ботик для тайм трекинга.md",
-    "Идеи/Ботик для записи.md",
     "Идеи",
     "Чек листы",
     "Психология",
     "Маркетинг",
-    "Untitled.canvas",
     "не сортированное",
     "проекты",
     "идеи"
