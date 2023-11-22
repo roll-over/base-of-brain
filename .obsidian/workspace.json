@@ -8,42 +8,99 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5e049658f664136c",
+            "id": "14bfae29663aeeb3",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "f1d011682c83ae27",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "5c13028e8b01e253",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "9c0f181a047f340c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "a91910f6a21fd873",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "5e8d9ca70b59d950",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "7543808b69a1305d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "f6c7338f610b7ced",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "965661d84048123d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Чек листы/Чек лист Hikkithon.md",
+                "file": "Регламенты/Первая версия описания проекта.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7b6afe2485aceec2",
+            "id": "b89d933f167306ef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Проекты/Simple bots.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
-            "id": "908bb1b6bd892f07",
+            "id": "bba3d5d1c8b58043",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Проекты/Simple psychologist.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -72,7 +129,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#psy",
+                "query": "tag:#project",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Чек листы/Чек лист Hikkithon.md",
+                "file": "Регламенты/Первая версия описания проекта.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Чек листы/Чек лист Hikkithon.md",
+                "file": "Регламенты/Первая версия описания проекта.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Чек листы/Чек лист Hikkithon.md"
+                "file": "Регламенты/Первая версия описания проекта.md"
               }
             }
           }
@@ -170,41 +227,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71d2f5df28ae2574",
+  "active": "965661d84048123d",
   "lastOpenFiles": [
+    "Регламенты",
+    "Регламенты/Первая версия описания проекта.md",
+    "Проекты/Лендинг.md",
+    "Проекты/roll-over.md",
+    "Проекты/IT`s open mic.md",
     "Чек листы/Чек лист IT's open mic.md",
     "Чек листы/Чек лист Hikkithon.md",
-    "Проекты/IT`s open mic.md",
-    "Проекты/Simple bots.md",
+    "Проекты/red-flags.md",
+    "Проекты/hide-hire.md",
     "Проекты/Simple psychologist.md",
-    "Simpl",
-    "Проекты/roll-over.md",
-    "Проекты/Лендинг.md",
-    "Чек листы",
-    "Психология/Сепарация.md",
-    "Психология/Свобода.md",
-    "Маркетинг/Виды рекламы.md",
+    "Проекты/Simple bots.md",
+    "Проекты/Hikkithon.md",
+    "Проекты",
+    "Идеи/Тема для хакатона Пушка API.md",
+    "Идеи/Тема для хакатона Мини сервис.md",
     "Идеи/Телеграм версия приложения.md",
     "Идеи/Рекрутинговое агенство.md",
-    "Идеи/Проверка LinkedIn.md",
     "Идеи/Проверка hh.md",
+    "Идеи/Проверка LinkedIn.md",
     "Идеи/Позвать рекрутера на митап.md",
     "Идеи/Позвать маркетолога на митап.md",
     "Идеи/Платформа для репетиторов.md",
     "Идеи/Платформа для бьюти сферы.md",
     "Идеи/Вид квартиры из лего.md",
     "Идеи/Ботик коуч.md",
+    "Идеи/Ботик для тайм трекинга.md",
+    "Идеи/Ботик для записи.md",
+    "Идеи",
+    "Чек листы",
     "Психология",
     "Маркетинг",
-    "Идеи/Ботик генератор идей.md",
-    "Идеи/Ботик для записи.md",
-    "Идеи/Ботик для тайм трекинга.md",
-    "Проекты/red-flags.md",
-    "Идеи/Тема для хакатона Пушка API.md",
-    "Идеи/Тема для хакатона Мини сервис.md",
     "Untitled.canvas",
     "не сортированное",
-    "Проекты",
-    "Идеи"
+    "проекты",
+    "идеи"
   ]
 }
