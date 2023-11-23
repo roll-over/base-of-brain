@@ -116,6 +116,18 @@
             }
           },
           {
+            "id": "1caccca3cc2caa80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Проекты/Denta.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b89d933f167306ef",
             "type": "leaf",
             "state": {
@@ -132,7 +144,7 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -198,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Проекты/Hikkithon.md",
+                "file": "Проекты/Denta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -215,7 +227,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Проекты/Hikkithon.md",
+                "file": "Проекты/Denta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -238,7 +250,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Проекты/Hikkithon.md"
+                "file": "Проекты/Denta.md"
               }
             }
           }
@@ -259,8 +271,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c2042dde8d0bcd5a",
+  "active": "1caccca3cc2caa80",
   "lastOpenFiles": [
+    "Проекты/Hikkithon.md",
+    "Проекты/Denta.md",
     "Идеи/Подписочная модель на 3 4 тыс руб в месяц в б2б.md",
     "Идеи/Аудит найма.md",
     "Идеи/Подкаст ретроспектива.md",
@@ -280,7 +294,6 @@
     "Проекты/hide-hire.md",
     "Проекты/Simple psychologist.md",
     "Проекты/Simple bots.md",
-    "Проекты/Hikkithon.md",
     "Проекты",
     "Идеи/Тема для хакатона Пушка API.md",
     "Идеи/Тема для хакатона Мини сервис.md",
@@ -291,7 +304,6 @@
     "Идеи/Позвать рекрутера на митап.md",
     "Идеи/Позвать маркетолога на митап.md",
     "Идеи/Платформа для репетиторов.md",
-    "Идеи/Платформа для бьюти сферы.md",
     "Идеи",
     "Чек листы",
     "Психология",
