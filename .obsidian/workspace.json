@@ -131,8 +131,12 @@
             "id": "b89d933f167306ef",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Проекты/Denta.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -144,7 +148,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -271,10 +275,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1caccca3cc2caa80",
+  "active": "b89d933f167306ef",
   "lastOpenFiles": [
-    "Проекты/Hikkithon.md",
     "Проекты/Denta.md",
+    "Проекты/Hikkithon.md",
     "Идеи/Подписочная модель на 3 4 тыс руб в месяц в б2б.md",
     "Идеи/Аудит найма.md",
     "Идеи/Подкаст ретроспектива.md",
