@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Регламенты/Безопасность сайта.md",
+                "file": "Проекты/Denta.md",
                 "mode": "source",
                 "source": false
               }
@@ -226,7 +226,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Регламенты/Безопасность сайта.md",
+                "file": "Проекты/Denta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +243,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Регламенты/Безопасность сайта.md",
+                "file": "Проекты/Denta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +266,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Регламенты/Безопасность сайта.md"
+                "file": "Проекты/Denta.md"
               }
             }
           }
@@ -289,8 +289,8 @@
   },
   "active": "66c595e7d37d41e3",
   "lastOpenFiles": [
-    "Проекты/Denta.md",
     "Регламенты/Безопасность сайта.md",
+    "Проекты/Denta.md",
     "Проекты/Hikkithon.md",
     "Идеи/Подписочная модель на 3 4 тыс руб в месяц в б2б.md",
     "Идеи/Аудит найма.md",
