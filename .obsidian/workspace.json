@@ -19,16 +19,96 @@
             "id": "f1d011682c83ae27",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "seo/Популярные ошибки/Почему твой сайт никогда не выйдет в поиск.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
             "id": "5c13028e8b01e253",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "seo/Популярные ошибки/Почему твой сайт никогда не выйдет в поиск.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "594f12bbe1027414",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "seo/Инструменты проверки сайта/Анализ сайта.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4541bfd610f7dd49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "seo/Инструменты проверки сайта/Анализ сайта.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "57cf9967ab3a8e6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "seo/Дополнительные материалы/Дополнительные материалы.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b28cc1a4d7fc8bdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "seo/TODO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5b8e28183fd777a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "seo/TODO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5efb1ce83b81044d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "seo/Популярные ошибки/Отсутствие качественного контента.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -51,16 +131,36 @@
             "id": "5e8d9ca70b59d950",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Проекты/Denta.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
             "id": "7543808b69a1305d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "seo/TODO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eae058dc500bc641",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -152,6 +252,90 @@
             }
           },
           {
+            "id": "d4c2f6613f77c935",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "seo/Введение в seo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc7029f374741097",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "seo/Семантическая верстка/Что такое семантическая верстка.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7655b22a840d8901",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "seo/Введение в seo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8ecd95a500802df7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "seo/Популярные ошибки/Почему твой сайт никогда не выйдет в поиск.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fedd836c02e30ec9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "seo/Популярные ошибки/Почему твой сайт никогда не выйдет в поиск.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3f58a5c13abb8055",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "seo/Популярные ошибки/Низкая скорость загрузки сайта или как упустить своих посетителей.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c8a4835a08aeb7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "seo/TODO.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "bba3d5d1c8b58043",
             "type": "leaf",
             "state": {
@@ -160,7 +344,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -226,7 +410,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Проекты/Denta.md",
+                "file": "README.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +427,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Проекты/Denta.md",
+                "file": "README.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -266,7 +450,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Проекты/Denta.md"
+                "file": "README.md.md"
               }
             }
           }
@@ -287,45 +471,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "66c595e7d37d41e3",
+  "active": "eae058dc500bc641",
   "lastOpenFiles": [
+    "seo/TODO.md",
+    "README.md.md",
+    "seo/Введение в seo.md",
+    "Регламенты/Первая версия описания проекта.md",
     "Регламенты/Безопасность сайта.md",
     "Проекты/Denta.md",
+    "seo/Популярные ошибки/Отсутствие качественного контента.md",
+    "seo/Популярные ошибки/Отсутствие качественных и релевантных ссылок.md",
+    "seo/Терминология/SSR.md",
+    "seo/Терминология",
+    "Untitled 1.md",
+    "seo/Инструменты подготовки к публикации/Инструменты подготовки к публикации.md",
+    "seo/Дополнительные материалы/Дополнительные материалы.md",
+    "seo/Инструменты подготовки к публикации",
+    "seo/Инструменты проверки сайта/Анализ сайта.md",
+    "seo/Дополнительные материалы",
+    "seo/Популярные ошибки/Почему твой сайт никогда не выйдет в поиск.md",
+    "seo/Инструменты проверки сайта",
+    "seo/Популярные ошибки/Ошибки технического характера как преграды на пути к успешной веб-разработке.md",
+    "seo/Популярные ошибки/Низкая скорость загрузки сайта или как упустить своих посетителей.md",
+    "seo/Популярные ошибки",
+    "seo/Семантическая верстка/Что такое семантическая верстка.md",
+    "seo/Семантическая верстка/Конфликт html4 и html5.md",
+    "seo/Семантическая верстка",
+    "Маркетинг/Виды рекламы.md",
+    "seo",
     "Проекты/Hikkithon.md",
     "Идеи/Подписочная модель на 3 4 тыс руб в месяц в б2б.md",
     "Идеи/Аудит найма.md",
     "Идеи/Подкаст ретроспектива.md",
     "Идеи/Аудит скилов.md",
-    "Untitled",
     "Untitled.canvas",
     "2023-11-22.md",
     "Untitled 1.canvas",
-    "Регламенты/Первая версия описания проекта.md",
     "Регламенты",
     "Проекты/Лендинг.md",
-    "Проекты/roll-over.md",
-    "Проекты/IT`s open mic.md",
-    "Чек листы/Чек лист IT's open mic.md",
-    "Чек листы/Чек лист Hikkithon.md",
-    "Проекты/red-flags.md",
-    "Проекты/hide-hire.md",
-    "Проекты/Simple psychologist.md",
-    "Проекты/Simple bots.md",
     "Проекты",
-    "Идеи/Тема для хакатона Пушка API.md",
-    "Идеи/Тема для хакатона Мини сервис.md",
-    "Идеи/Телеграм версия приложения.md",
-    "Идеи/Рекрутинговое агенство.md",
-    "Идеи/Проверка hh.md",
-    "Идеи/Проверка LinkedIn.md",
-    "Идеи/Позвать рекрутера на митап.md",
-    "Идеи/Позвать маркетолога на митап.md",
-    "Идеи",
-    "Чек листы",
-    "Психология",
-    "Маркетинг",
-    "не сортированное",
-    "проекты",
-    "идеи"
+    "Идеи"
   ]
 }
