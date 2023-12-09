@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md.md",
+                "file": "seo/TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -175,8 +175,12 @@
             "id": "965661d84048123d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -344,7 +348,7 @@
             }
           }
         ],
-        "currentTab": 13
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -410,7 +414,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -427,7 +431,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -450,7 +454,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md.md"
+                "file": "README.md"
               }
             }
           }
@@ -471,10 +475,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eae058dc500bc641",
+  "active": "71d2f5df28ae2574",
   "lastOpenFiles": [
     "seo/TODO.md",
-    "README.md.md",
+    "README.md",
     "seo/Введение в seo.md",
     "Регламенты/Первая версия описания проекта.md",
     "Регламенты/Безопасность сайта.md",
