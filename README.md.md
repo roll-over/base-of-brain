@@ -17,4 +17,7 @@ git clone git@github.com:roll-over/base-of-brain.git
 ## Как поучаствовать в развитии?
 После того как вы склонировали репозиторий, вы можете внести правки и сделать pull request
 
+Можно взять задачу из (todo)[/seo/TODO]
+
+
 За помощью можно обратиться на сервере https://discord.gg/6cGTh3GNrx
