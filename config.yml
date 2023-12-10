@@ -1,0 +1,11 @@
+obsidian_folder_path_str: './' 
+html_output_folder_path_str: '/output'
+
+# The note that will be used as the index.html 
+# should be in obsidian_folder_path_str
+# Use full path or relative path, but don't use ~/
+obsidian_entrypoint_path_str: './README.md'
+toggles:
+  # Will preserve inline tags. This will give polluted markdown output
+  preserve_inline_tags: True
+  process_all: True

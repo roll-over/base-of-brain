@@ -2,7 +2,7 @@
 
 Комбинированная система crm система и площадка для продвижения для стоматологических клиник
 
-Вот тут можно увидеть прод версию: https://denta.roll-over.org/ru/search/kazahstan/abaj
+Вот тут можно увидеть прод версию: https://denta.roll-over.org/
 Весь код открыт и находится вот тут: https://github.com/roll-over/landing
 
 ## ЦА:

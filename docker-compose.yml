@@ -1,0 +1,7 @@
+services:
+  base-of-brain:
+    build: .
+    working_dir: /output/
+    command: python3 -m http.server
+    ports:
+      - "8700:8000"
