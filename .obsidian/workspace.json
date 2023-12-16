@@ -208,6 +208,18 @@
             }
           },
           {
+            "id": "4e075f7018c1626b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Регламенты/Подготовка к публичному выступлению IT's open  mic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9d227b10f65ea6e7",
             "type": "leaf",
             "state": {
@@ -372,7 +384,7 @@
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 18
       }
     ],
     "direction": "vertical"
@@ -438,7 +450,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Регламенты/Черный список.md",
+                "file": "Регламенты/Подготовка к публичному выступлению IT's open  mic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -455,7 +467,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Регламенты/Черный список.md",
+                "file": "Регламенты/Подготовка к публичному выступлению IT's open  mic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -478,7 +490,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Регламенты/Черный список.md"
+                "file": "Регламенты/Подготовка к публичному выступлению IT's open  mic.md"
               }
             }
           }
@@ -499,10 +511,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "362f28e0cc1b8648",
+  "active": "4e075f7018c1626b",
   "lastOpenFiles": [
-    "Эмиграция/Кыргызстан/Цифровой кочевник.md",
+    "Регламенты/Чек лист IT's open mic.md",
+    "Регламенты/Чек лист Hikkithon.md",
+    "Регламенты/Подготовка к публичному выступлению IT's open  mic.md",
     "Регламенты/Черный список.md",
+    "Эмиграция/Кыргызстан/Цифровой кочевник.md",
     "Эмиграция/Кыргызстан/Pasted.md",
     "Эмиграция/Кыргызстан/Pasted image 20231213130640.png",
     "README.md",
@@ -541,9 +556,6 @@
     "Untitled 1.md",
     "seo/Инструменты подготовки к публикации/Инструменты подготовки к публикации.md",
     "seo/Дополнительные материалы/Дополнительные материалы.md",
-    "seo/Инструменты проверки сайта/Анализ сайта.md",
-    "seo/Популярные ошибки/Почему твой сайт никогда не выйдет в поиск.md",
-    "seo/Популярные ошибки/Ошибки технического характера как преграды на пути к успешной веб-разработке.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

@@ -4,14 +4,13 @@
  - В понедельник сделать анонсы
 	 - twitter (roll-over)
 		 - Репост
-	 - LinkedIn (roll-over)
+	 - LinkedIn (IT's open mic)
 		 - Репост
 	 - Telegram (https://t.me/its_open_mic)
 		 - Сторис в telegram
 	 - Discord
 		 - ивент дискорда
 		 - пинг @everyone
-	 - [[Лендинг]]
 - В понедельник пингануть оратора
 - Проверка связи
 	-  Ознакомиться с презентацией
@@ -33,7 +32,7 @@
 	- Сделать анонсы
 		 - twitter (roll-over)
 			 - Репост
-		 - LinkedIn (roll-over)
+		 - LinkedIn (IT's open mic)
 			 - Репост
 		 - Telegram
 			 - Пост в https://t.me/its_open_mic
@@ -41,7 +40,6 @@
 		 - Discord
 			 - ивент дискорда
 			 - пинг @everyone
-		 - [[Лендинг]]
 - В пятницу смонтировать видео
 - В субботу добавить новое видео на патреон
 	- Залить на ютуб с доступом по ссылке
@@ -49,7 +47,7 @@
 	- Сделать анонсы
 		 - twitter (roll-over)
 			 - Репост
-		 - LinkedIn (roll-over)
+		 - LinkedIn (IT's open mic)
 			 - Репост
 		 - Telegram
 			 - Пост в https://t.me/its_open_mic
@@ -57,6 +55,5 @@
 		 - Discord
 			 - ивент дискорда
 			 - пинг @everyone
-		 - [[Лендинг]]
 
 [[IT`s open mic]]
