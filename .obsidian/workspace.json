@@ -196,6 +196,18 @@
             }
           },
           {
+            "id": "362f28e0cc1b8648",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Регламенты/Черный список.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9d227b10f65ea6e7",
             "type": "leaf",
             "state": {
@@ -360,7 +372,7 @@
             }
           }
         ],
-        "currentTab": 16
+        "currentTab": 17
       }
     ],
     "direction": "vertical"
@@ -426,7 +438,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Эмиграция/Кыргызстан/Цифровой кочевник.md",
+                "file": "Регламенты/Черный список.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -443,7 +455,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Эмиграция/Кыргызстан/Цифровой кочевник.md",
+                "file": "Регламенты/Черный список.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -466,7 +478,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Эмиграция/Кыргызстан/Цифровой кочевник.md"
+                "file": "Регламенты/Черный список.md"
               }
             }
           }
@@ -487,10 +499,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0b8623b031114437",
+  "active": "362f28e0cc1b8648",
   "lastOpenFiles": [
-    "Эмиграция/Кыргызстан/Pasted.md",
     "Эмиграция/Кыргызстан/Цифровой кочевник.md",
+    "Регламенты/Черный список.md",
+    "Эмиграция/Кыргызстан/Pasted.md",
     "Эмиграция/Кыргызстан/Pasted image 20231213130640.png",
     "README.md",
     "Эмиграция/Кыргызстан",
