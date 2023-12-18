@@ -220,6 +220,18 @@
             }
           },
           {
+            "id": "3cc2b36712373229",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Time or SM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9d227b10f65ea6e7",
             "type": "leaf",
             "state": {
@@ -384,7 +396,7 @@
             }
           }
         ],
-        "currentTab": 18
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -450,7 +462,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Регламенты/Подготовка к публичному выступлению IT's open  mic.md",
+                "file": "Time or SM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -467,7 +479,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Регламенты/Подготовка к публичному выступлению IT's open  mic.md",
+                "file": "Time or SM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -490,7 +502,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Регламенты/Подготовка к публичному выступлению IT's open  mic.md"
+                "file": "Time or SM.md"
               }
             }
           }
@@ -511,11 +523,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4e075f7018c1626b",
+  "active": "3cc2b36712373229",
   "lastOpenFiles": [
+    "Идеи/Аудит найма.md",
+    "Идеи/Подкаст ретроспектива.md",
+    "Time or SM.md",
+    "Регламенты/Подготовка к публичному выступлению IT's open  mic.md",
     "Регламенты/Чек лист IT's open mic.md",
     "Регламенты/Чек лист Hikkithon.md",
-    "Регламенты/Подготовка к публичному выступлению IT's open  mic.md",
     "Регламенты/Черный список.md",
     "Эмиграция/Кыргызстан/Цифровой кочевник.md",
     "Эмиграция/Кыргызстан/Pasted.md",
@@ -553,9 +568,6 @@
     "seo/Популярные ошибки/Отсутствие качественного контента.md",
     "seo/Популярные ошибки/Отсутствие качественных и релевантных ссылок.md",
     "seo/Терминология/SSR.md",
-    "Untitled 1.md",
-    "seo/Инструменты подготовки к публикации/Инструменты подготовки к публикации.md",
-    "seo/Дополнительные материалы/Дополнительные материалы.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
