@@ -232,6 +232,18 @@
             }
           },
           {
+            "id": "19462b26dd049449",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Менеджмент/Типы менеджмента.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "9d227b10f65ea6e7",
             "type": "leaf",
             "state": {
@@ -396,7 +408,7 @@
             }
           }
         ],
-        "currentTab": 19
+        "currentTab": 20
       }
     ],
     "direction": "vertical"
@@ -462,7 +474,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Проекты/IT`s open mic.md",
+                "file": "Менеджмент/Типы менеджмента.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -479,7 +491,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Проекты/IT`s open mic.md",
+                "file": "Менеджмент/Типы менеджмента.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -502,7 +514,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Проекты/IT`s open mic.md"
+                "file": "Менеджмент/Типы менеджмента.md"
               }
             }
           }
@@ -523,8 +535,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3cc2b36712373229",
+  "active": "71d2f5df28ae2574",
   "lastOpenFiles": [
+    "Проекты/IT`s open mic.md",
+    "Менеджмент/Типы менеджмента.md",
+    "Менеджмент",
     "Проекты/Time or SM.md",
     "Идеи/Аудит найма.md",
     "Идеи/Подкаст ретроспектива.md",
@@ -545,7 +560,6 @@
     "output/html/obs.html/static/graphers/2d.js",
     "output/html/obs.html/static/graphers",
     "output/html/favicon.ico",
-    "output/html/not_created.html",
     "output/html/obs.html/static/search.svg",
     "output/html/obs.html/static/rss.svg",
     "output/html/obs.html/static/hashtag.svg",
@@ -566,8 +580,6 @@
     "Регламенты/Безопасность сайта.md",
     "Проекты/Denta.md",
     "seo/Популярные ошибки/Отсутствие качественного контента.md",
-    "seo/Популярные ошибки/Отсутствие качественных и релевантных ссылок.md",
-    "seo/Терминология/SSR.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
