@@ -261,7 +261,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Регламенты/Монтаж открытого микрофона.md",
+                "file": "Проекты/IT`s open mic.md",
                 "mode": "source",
                 "source": false
               }
@@ -474,7 +474,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Регламенты/Монтаж открытого микрофона.md",
+                "file": "Проекты/IT`s open mic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -491,7 +491,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Регламенты/Монтаж открытого микрофона.md",
+                "file": "Проекты/IT`s open mic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -514,7 +514,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Регламенты/Монтаж открытого микрофона.md"
+                "file": "Проекты/IT`s open mic.md"
               }
             }
           }
@@ -537,9 +537,9 @@
   },
   "active": "064af0335cc63ea1",
   "lastOpenFiles": [
+    "Регламенты/Монтаж открытого микрофона.md",
     "Идеи/Аудит найма.md",
     "Идеи/Подкаст ретроспектива.md",
-    "Регламенты/Монтаж открытого микрофона.md",
     "Проекты/IT`s open mic.md",
     "Менеджмент/Типы менеджмента.md",
     "Менеджмент",
