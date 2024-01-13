@@ -244,18 +244,6 @@
             }
           },
           {
-            "id": "55e88fef3848220e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Регламенты/Монтаж открытого микрофона.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9d227b10f65ea6e7",
             "type": "leaf",
             "state": {
@@ -273,7 +261,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Идеи/Аудит найма.md",
+                "file": "Регламенты/Монтаж открытого микрофона.md",
                 "mode": "source",
                 "source": false
               }
@@ -420,7 +408,7 @@
             }
           }
         ],
-        "currentTab": 21
+        "currentTab": 22
       }
     ],
     "direction": "vertical"
@@ -547,15 +535,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "55e88fef3848220e",
+  "active": "064af0335cc63ea1",
   "lastOpenFiles": [
-    "Проекты/IT`s open mic.md",
+    "Идеи/Аудит найма.md",
+    "Идеи/Подкаст ретроспектива.md",
     "Регламенты/Монтаж открытого микрофона.md",
+    "Проекты/IT`s open mic.md",
     "Менеджмент/Типы менеджмента.md",
     "Менеджмент",
     "Проекты/Time or SM.md",
-    "Идеи/Аудит найма.md",
-    "Идеи/Подкаст ретроспектива.md",
     "Регламенты/Подготовка к публичному выступлению IT's open  mic.md",
     "Регламенты/Чек лист IT's open mic.md",
     "Регламенты/Чек лист Hikkithon.md",
