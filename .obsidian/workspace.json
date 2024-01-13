@@ -237,7 +237,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Менеджмент/Типы менеджмента.md",
+                "file": "Проекты/IT`s open mic.md",
                 "mode": "source",
                 "source": false
               }
@@ -474,7 +474,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Менеджмент/Типы менеджмента.md",
+                "file": "Проекты/IT`s open mic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -491,7 +491,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Менеджмент/Типы менеджмента.md",
+                "file": "Проекты/IT`s open mic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -514,7 +514,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Менеджмент/Типы менеджмента.md"
+                "file": "Проекты/IT`s open mic.md"
               }
             }
           }
@@ -535,7 +535,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "71d2f5df28ae2574",
+  "active": "19462b26dd049449",
   "lastOpenFiles": [
     "Проекты/IT`s open mic.md",
     "Менеджмент/Типы менеджмента.md",
