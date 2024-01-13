@@ -249,7 +249,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Монтаж открытого микрофона.md",
+                "file": "Регламенты/Монтаж открытого микрофона.md",
                 "mode": "source",
                 "source": false
               }
@@ -486,7 +486,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Монтаж открытого микрофона.md",
+                "file": "Регламенты/Монтаж открытого микрофона.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -503,7 +503,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Монтаж открытого микрофона.md",
+                "file": "Регламенты/Монтаж открытого микрофона.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -526,7 +526,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Монтаж открытого микрофона.md"
+                "file": "Регламенты/Монтаж открытого микрофона.md"
               }
             }
           }
@@ -550,7 +550,7 @@
   "active": "55e88fef3848220e",
   "lastOpenFiles": [
     "Проекты/IT`s open mic.md",
-    "Монтаж открытого микрофона.md",
+    "Регламенты/Монтаж открытого микрофона.md",
     "Менеджмент/Типы менеджмента.md",
     "Менеджмент",
     "Проекты/Time or SM.md",
